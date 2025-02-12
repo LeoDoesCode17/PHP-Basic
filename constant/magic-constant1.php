@@ -1,6 +1,6 @@
 <?php
 /* <============================ HELPER ============================> */
-namespace myArea; //the lines below are inside this namespace
+namespace myArea; //all lines below are inside this namespace
 
 trait message{
     public function getTraitMessage(){
